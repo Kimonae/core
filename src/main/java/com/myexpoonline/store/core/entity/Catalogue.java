@@ -31,4 +31,3 @@ public class Catalogue{
         System.out.println(valeur);
    }
 }
-
